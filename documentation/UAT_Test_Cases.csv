@@ -1,0 +1,8 @@
+TestID,TestName,Action,ExpectedResult,ActualResult,Status
+UAT-01,Load source files,All four CSV files are imported,Counts match source,,Not Run
+UAT-02,Executive KPI validation,Open overview page,"500 customers, 800 loans, 6000 transactions",,Not Run
+UAT-03,Risk KPI validation,Compare Power BI measures to MySQL query 2,Rates reconcile with defined DPD thresholds,,Not Run
+UAT-04,Branch filter,Select a branch on customer page,All relevant visuals update,,Not Run
+UAT-05,Drill-through,Right-click branch visual and drill through,Destination filters to selected branch,,Not Run
+UAT-06,Back navigation,Click back arrow on drill-through page,Returns to source page,,Not Run
+UAT-07,Data quality,Execute validation SQL,No unexpected invalid or orphan records,,Not Run

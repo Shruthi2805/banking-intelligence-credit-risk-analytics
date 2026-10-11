@@ -1,0 +1,501 @@
+CustomerID,Age,CustomerSegment,Occupation,Emirate,BranchID,TenureMonths,AnnualIncomeAED,IsActive
+C00001,61,Mass Market,Business Owner,Dubai,BR001,63,94513,1
+C00002,55,Mass Market,Salaried,Dubai,BR002,8,60561,1
+C00003,22,Mass Market,Self-employed,Abu Dhabi,BR003,180,178853,1
+C00004,38,SME,Salaried,Abu Dhabi,BR004,41,461572,1
+C00005,34,Corporate,Salaried,Sharjah,BR005,24,290708,1
+C00006,59,Mass Market,Salaried,Al Ain,BR006,118,305445,1
+C00007,39,SME,Self-employed,Dubai,BR001,93,187349,1
+C00008,35,Affluent,Other,Dubai,BR002,60,439296,1
+C00009,74,Mass Market,Salaried,Abu Dhabi,BR003,54,211682,1
+C00010,31,Mass Market,Salaried,Abu Dhabi,BR004,119,135471,1
+C00011,74,Affluent,Salaried,Sharjah,BR005,9,450326,1
+C00012,57,SME,Salaried,Al Ain,BR006,168,447426,1
+C00013,29,Mass Market,Salaried,Dubai,BR001,68,546492,1
+C00014,46,Mass Market,Other,Dubai,BR002,36,169569,1
+C00015,28,Mass Market,Salaried,Abu Dhabi,BR003,175,146666,1
+C00016,59,Corporate,Salaried,Abu Dhabi,BR004,142,39009,1
+C00017,55,Affluent,Business Owner,Sharjah,BR005,88,393879,1
+C00018,21,Corporate,Business Owner,Al Ain,BR006,68,167225,1
+C00019,27,SME,Salaried,Dubai,BR001,164,169080,1
+C00020,69,Mass Market,Other,Dubai,BR002,136,554020,1
+C00021,28,SME,Business Owner,Abu Dhabi,BR003,79,98770,1
+C00022,26,Mass Market,Salaried,Abu Dhabi,BR004,18,235387,1
+C00023,51,Corporate,Salaried,Sharjah,BR005,136,195014,0
+C00024,69,Affluent,Salaried,Al Ain,BR006,80,592158,1
+C00025,54,Mass Market,Salaried,Dubai,BR001,17,124627,1
+C00026,21,Mass Market,Self-employed,Dubai,BR002,59,256470,1
+C00027,36,Mass Market,Salaried,Abu Dhabi,BR003,139,619246,1
+C00028,51,SME,Salaried,Abu Dhabi,BR004,25,465995,1
+C00029,50,SME,Salaried,Sharjah,BR005,168,205392,1
+C00030,42,SME,Salaried,Al Ain,BR006,50,521169,1
+C00031,32,Mass Market,Salaried,Dubai,BR001,20,152164,1
+C00032,55,SME,Other,Dubai,BR002,61,453079,1
+C00033,46,SME,Salaried,Abu Dhabi,BR003,1,379043,1
+C00034,65,Corporate,Other,Abu Dhabi,BR004,143,616653,1
+C00035,39,Mass Market,Salaried,Sharjah,BR005,139,632155,1
+C00036,58,Mass Market,Business Owner,Al Ain,BR006,136,77270,1
+C00037,25,Affluent,Self-employed,Dubai,BR001,61,141847,1
+C00038,23,Affluent,Salaried,Dubai,BR002,150,514089,0
+C00039,34,Affluent,Salaried,Abu Dhabi,BR003,68,308618,1
+C00040,69,SME,Salaried,Abu Dhabi,BR004,160,183585,1
+C00041,53,Mass Market,Business Owner,Sharjah,BR005,18,433739,1
+C00042,74,Mass Market,Salaried,Al Ain,BR006,168,244102,0
+C00043,27,SME,Salaried,Dubai,BR001,30,64058,1
+C00044,59,Mass Market,Salaried,Dubai,BR002,176,378404,1
+C00045,24,Mass Market,Salaried,Abu Dhabi,BR003,71,241859,1
+C00046,61,Corporate,Salaried,Abu Dhabi,BR004,114,609973,1
+C00047,28,Mass Market,Business Owner,Sharjah,BR005,39,258890,1
+C00048,30,Mass Market,Salaried,Al Ain,BR006,94,46458,1
+C00049,63,Mass Market,Business Owner,Dubai,BR001,105,198702,0
+C00050,36,SME,Other,Dubai,BR002,46,144080,1
+C00051,42,Affluent,Salaried,Abu Dhabi,BR003,172,370112,1
+C00052,65,Mass Market,Business Owner,Abu Dhabi,BR004,121,344634,1
+C00053,73,Affluent,Salaried,Sharjah,BR005,7,341256,1
+C00054,25,Corporate,Salaried,Al Ain,BR006,165,449547,0
+C00055,28,SME,Salaried,Dubai,BR001,149,105590,1
+C00056,43,Affluent,Salaried,Dubai,BR002,156,300632,1
+C00057,33,Mass Market,Self-employed,Abu Dhabi,BR003,1,172293,1
+C00058,25,Corporate,Business Owner,Abu Dhabi,BR004,160,118291,1
+C00059,40,Mass Market,Self-employed,Sharjah,BR005,84,605539,1
+C00060,33,Mass Market,Other,Al Ain,BR006,174,331241,1
+C00061,74,Mass Market,Salaried,Dubai,BR001,111,558066,1
+C00062,49,Affluent,Salaried,Dubai,BR002,44,284458,1
+C00063,61,Affluent,Salaried,Abu Dhabi,BR003,61,212369,1
+C00064,30,Mass Market,Salaried,Abu Dhabi,BR004,122,196241,1
+C00065,61,Mass Market,Self-employed,Sharjah,BR005,99,165598,1
+C00066,65,Mass Market,Business Owner,Al Ain,BR006,28,147449,1
+C00067,65,Mass Market,Salaried,Dubai,BR001,64,67813,1
+C00068,63,Mass Market,Salaried,Dubai,BR002,82,472036,1
+C00069,56,Mass Market,Salaried,Abu Dhabi,BR003,122,153983,1
+C00070,38,Affluent,Salaried,Abu Dhabi,BR004,161,383969,1
+C00071,39,Mass Market,Salaried,Sharjah,BR005,139,57122,1
+C00072,65,Mass Market,Salaried,Al Ain,BR006,107,413478,1
+C00073,34,SME,Salaried,Dubai,BR001,150,250241,1
+C00074,43,Mass Market,Salaried,Dubai,BR002,108,177091,1
+C00075,38,Mass Market,Salaried,Abu Dhabi,BR003,87,596066,1
+C00076,74,Mass Market,Salaried,Abu Dhabi,BR004,160,254139,1
+C00077,63,Mass Market,Self-employed,Sharjah,BR005,35,157031,1
+C00078,41,Mass Market,Salaried,Al Ain,BR006,98,634270,1
+C00079,26,Mass Market,Business Owner,Dubai,BR001,14,127740,1
+C00080,62,Mass Market,Salaried,Dubai,BR002,64,88261,1
+C00081,51,Affluent,Salaried,Abu Dhabi,BR003,56,606722,1
+C00082,31,Affluent,Other,Abu Dhabi,BR004,30,325861,1
+C00083,22,SME,Salaried,Sharjah,BR005,97,139980,1
+C00084,65,SME,Salaried,Al Ain,BR006,179,238501,1
+C00085,57,Affluent,Salaried,Dubai,BR001,110,209413,1
+C00086,42,Mass Market,Salaried,Dubai,BR002,126,467292,1
+C00087,74,Mass Market,Salaried,Abu Dhabi,BR003,46,513546,1
+C00088,55,Affluent,Salaried,Abu Dhabi,BR004,152,106358,1
+C00089,26,Mass Market,Salaried,Sharjah,BR005,119,559990,1
+C00090,52,SME,Salaried,Al Ain,BR006,55,375452,1
+C00091,59,Affluent,Salaried,Dubai,BR001,3,171430,1
+C00092,47,Mass Market,Business Owner,Dubai,BR002,177,578640,1
+C00093,22,Mass Market,Salaried,Abu Dhabi,BR003,178,400541,1
+C00094,54,Mass Market,Other,Abu Dhabi,BR004,141,424451,1
+C00095,37,Mass Market,Self-employed,Sharjah,BR005,81,67340,1
+C00096,68,Mass Market,Self-employed,Al Ain,BR006,135,192445,1
+C00097,39,Mass Market,Salaried,Dubai,BR001,4,221602,1
+C00098,24,Mass Market,Self-employed,Dubai,BR002,33,634680,1
+C00099,21,Mass Market,Salaried,Abu Dhabi,BR003,113,125314,1
+C00100,51,Mass Market,Salaried,Abu Dhabi,BR004,126,55420,1
+C00101,72,Mass Market,Salaried,Sharjah,BR005,64,532591,1
+C00102,71,Affluent,Business Owner,Al Ain,BR006,98,472114,1
+C00103,48,Mass Market,Self-employed,Dubai,BR001,157,230009,1
+C00104,37,Affluent,Salaried,Dubai,BR002,45,180701,1
+C00105,49,Affluent,Salaried,Abu Dhabi,BR003,9,391050,1
+C00106,50,Mass Market,Salaried,Abu Dhabi,BR004,68,199855,1
+C00107,55,Mass Market,Salaried,Sharjah,BR005,69,73286,1
+C00108,40,Affluent,Business Owner,Al Ain,BR006,74,305198,1
+C00109,65,Mass Market,Salaried,Dubai,BR001,139,165445,1
+C00110,48,Affluent,Self-employed,Dubai,BR002,7,59940,0
+C00111,64,SME,Salaried,Abu Dhabi,BR003,45,512087,0
+C00112,32,Corporate,Salaried,Abu Dhabi,BR004,126,486421,1
+C00113,41,Affluent,Business Owner,Sharjah,BR005,85,603685,1
+C00114,46,SME,Salaried,Al Ain,BR006,117,404898,1
+C00115,70,Mass Market,Salaried,Dubai,BR001,1,524476,1
+C00116,33,Mass Market,Self-employed,Dubai,BR002,128,199947,1
+C00117,56,Mass Market,Salaried,Abu Dhabi,BR003,179,163064,0
+C00118,59,Affluent,Self-employed,Abu Dhabi,BR004,80,247170,1
+C00119,74,SME,Salaried,Sharjah,BR005,31,320726,0
+C00120,39,Mass Market,Salaried,Al Ain,BR006,124,367786,1
+C00121,45,Mass Market,Self-employed,Dubai,BR001,35,384834,1
+C00122,71,Mass Market,Business Owner,Dubai,BR002,73,396530,1
+C00123,49,Mass Market,Salaried,Abu Dhabi,BR003,142,524914,1
+C00124,41,SME,Other,Abu Dhabi,BR004,62,185893,1
+C00125,47,Mass Market,Business Owner,Sharjah,BR005,98,137208,1
+C00126,23,Mass Market,Other,Al Ain,BR006,85,62309,1
+C00127,50,Mass Market,Salaried,Dubai,BR001,168,279232,1
+C00128,37,Mass Market,Self-employed,Dubai,BR002,167,412263,0
+C00129,61,Affluent,Business Owner,Abu Dhabi,BR003,139,45410,1
+C00130,64,SME,Other,Abu Dhabi,BR004,24,149763,1
+C00131,65,Mass Market,Salaried,Sharjah,BR005,84,393810,1
+C00132,30,Mass Market,Salaried,Al Ain,BR006,175,83200,1
+C00133,45,Affluent,Salaried,Dubai,BR001,150,361734,1
+C00134,50,Mass Market,Salaried,Dubai,BR002,120,111400,1
+C00135,43,Corporate,Salaried,Abu Dhabi,BR003,109,371124,1
+C00136,33,Corporate,Business Owner,Abu Dhabi,BR004,28,439945,1
+C00137,65,Mass Market,Other,Sharjah,BR005,169,139758,1
+C00138,64,Affluent,Other,Al Ain,BR006,156,500429,1
+C00139,35,Affluent,Salaried,Dubai,BR001,163,565526,1
+C00140,67,Affluent,Self-employed,Dubai,BR002,36,200691,1
+C00141,49,Mass Market,Salaried,Abu Dhabi,BR003,34,394723,1
+C00142,32,Mass Market,Business Owner,Abu Dhabi,BR004,94,503085,1
+C00143,37,SME,Other,Sharjah,BR005,76,231706,1
+C00144,25,Mass Market,Other,Al Ain,BR006,174,593584,0
+C00145,72,Mass Market,Salaried,Dubai,BR001,102,39648,1
+C00146,64,Affluent,Salaried,Dubai,BR002,98,203391,1
+C00147,51,Mass Market,Business Owner,Abu Dhabi,BR003,144,121984,1
+C00148,61,SME,Business Owner,Abu Dhabi,BR004,78,206194,1
+C00149,23,Mass Market,Salaried,Sharjah,BR005,25,97551,1
+C00150,44,Affluent,Business Owner,Al Ain,BR006,139,145871,1
+C00151,62,Mass Market,Salaried,Dubai,BR001,105,257153,1
+C00152,49,Corporate,Business Owner,Dubai,BR002,26,432590,1
+C00153,38,Mass Market,Salaried,Abu Dhabi,BR003,117,60031,1
+C00154,59,Corporate,Salaried,Abu Dhabi,BR004,86,99850,1
+C00155,69,Mass Market,Self-employed,Sharjah,BR005,60,122129,1
+C00156,59,Mass Market,Business Owner,Al Ain,BR006,38,523229,1
+C00157,28,Affluent,Salaried,Dubai,BR001,4,364745,1
+C00158,37,Mass Market,Business Owner,Dubai,BR002,135,65792,1
+C00159,70,Mass Market,Self-employed,Abu Dhabi,BR003,116,168078,1
+C00160,63,Mass Market,Salaried,Abu Dhabi,BR004,8,491125,1
+C00161,27,Mass Market,Business Owner,Sharjah,BR005,19,57178,1
+C00162,38,Affluent,Self-employed,Al Ain,BR006,84,553206,1
+C00163,59,Mass Market,Business Owner,Dubai,BR001,30,207629,1
+C00164,35,Mass Market,Business Owner,Dubai,BR002,103,145049,1
+C00165,41,Affluent,Salaried,Abu Dhabi,BR003,40,216046,1
+C00166,26,Mass Market,Salaried,Abu Dhabi,BR004,96,70108,1
+C00167,56,Mass Market,Self-employed,Sharjah,BR005,106,588831,1
+C00168,67,Mass Market,Salaried,Al Ain,BR006,80,128181,1
+C00169,51,Mass Market,Salaried,Dubai,BR001,143,300233,1
+C00170,72,Mass Market,Salaried,Dubai,BR002,160,196844,1
+C00171,63,SME,Salaried,Abu Dhabi,BR003,47,608417,0
+C00172,43,Mass Market,Business Owner,Abu Dhabi,BR004,145,208318,1
+C00173,61,Corporate,Salaried,Sharjah,BR005,136,437235,1
+C00174,31,Mass Market,Self-employed,Al Ain,BR006,146,192296,1
+C00175,69,Affluent,Self-employed,Dubai,BR001,70,587047,1
+C00176,49,Mass Market,Salaried,Dubai,BR002,132,420970,1
+C00177,64,Affluent,Salaried,Abu Dhabi,BR003,171,116850,1
+C00178,59,Mass Market,Salaried,Abu Dhabi,BR004,55,311951,1
+C00179,28,Mass Market,Business Owner,Sharjah,BR005,45,69865,1
+C00180,74,Affluent,Salaried,Al Ain,BR006,102,262179,1
+C00181,25,SME,Salaried,Dubai,BR001,147,611982,1
+C00182,46,Mass Market,Salaried,Dubai,BR002,159,601555,1
+C00183,27,Mass Market,Self-employed,Abu Dhabi,BR003,135,447496,1
+C00184,35,Mass Market,Salaried,Abu Dhabi,BR004,131,201996,1
+C00185,43,Mass Market,Other,Sharjah,BR005,166,74716,1
+C00186,33,Mass Market,Salaried,Al Ain,BR006,168,332876,1
+C00187,57,Affluent,Salaried,Dubai,BR001,145,573080,1
+C00188,61,Mass Market,Salaried,Dubai,BR002,121,571028,1
+C00189,58,Mass Market,Salaried,Abu Dhabi,BR003,80,157043,1
+C00190,74,Mass Market,Self-employed,Abu Dhabi,BR004,24,551469,1
+C00191,56,Corporate,Self-employed,Sharjah,BR005,11,153894,1
+C00192,51,Mass Market,Other,Al Ain,BR006,116,63132,1
+C00193,32,Mass Market,Self-employed,Dubai,BR001,113,173381,1
+C00194,39,Mass Market,Business Owner,Dubai,BR002,174,267455,1
+C00195,27,Mass Market,Salaried,Abu Dhabi,BR003,65,225722,1
+C00196,58,Affluent,Business Owner,Abu Dhabi,BR004,80,606205,1
+C00197,66,SME,Salaried,Sharjah,BR005,97,204687,1
+C00198,74,Corporate,Other,Al Ain,BR006,135,578704,1
+C00199,22,Mass Market,Salaried,Dubai,BR001,55,641687,1
+C00200,29,Mass Market,Salaried,Dubai,BR002,26,169087,1
+C00201,70,Affluent,Self-employed,Abu Dhabi,BR003,40,78532,1
+C00202,23,Mass Market,Self-employed,Abu Dhabi,BR004,61,560128,1
+C00203,71,Mass Market,Salaried,Sharjah,BR005,80,341721,1
+C00204,57,Corporate,Salaried,Al Ain,BR006,73,440212,0
+C00205,73,Mass Market,Self-employed,Dubai,BR001,65,576163,1
+C00206,56,SME,Self-employed,Dubai,BR002,133,68683,1
+C00207,38,Mass Market,Salaried,Abu Dhabi,BR003,112,356412,1
+C00208,22,Mass Market,Salaried,Abu Dhabi,BR004,96,97807,1
+C00209,22,Mass Market,Salaried,Sharjah,BR005,167,123894,1
+C00210,74,Mass Market,Business Owner,Al Ain,BR006,121,153598,1
+C00211,22,Mass Market,Business Owner,Dubai,BR001,141,559229,1
+C00212,39,Mass Market,Salaried,Dubai,BR002,62,574995,1
+C00213,74,SME,Self-employed,Abu Dhabi,BR003,5,201663,1
+C00214,39,Mass Market,Self-employed,Abu Dhabi,BR004,62,185596,1
+C00215,26,Mass Market,Salaried,Sharjah,BR005,135,178627,1
+C00216,51,Mass Market,Salaried,Al Ain,BR006,96,102492,1
+C00217,25,Mass Market,Self-employed,Dubai,BR001,161,644489,1
+C00218,43,Mass Market,Business Owner,Dubai,BR002,45,483597,1
+C00219,72,Mass Market,Self-employed,Abu Dhabi,BR003,118,45695,1
+C00220,33,SME,Salaried,Abu Dhabi,BR004,80,448785,1
+C00221,69,Affluent,Salaried,Sharjah,BR005,13,414025,1
+C00222,44,Mass Market,Salaried,Al Ain,BR006,113,137356,1
+C00223,52,Mass Market,Business Owner,Dubai,BR001,69,621201,1
+C00224,59,Corporate,Salaried,Dubai,BR002,76,120203,1
+C00225,39,Mass Market,Self-employed,Abu Dhabi,BR003,110,601636,1
+C00226,23,Affluent,Business Owner,Abu Dhabi,BR004,158,150017,1
+C00227,61,Mass Market,Salaried,Sharjah,BR005,174,77939,1
+C00228,64,Affluent,Salaried,Al Ain,BR006,18,648167,1
+C00229,57,Mass Market,Salaried,Dubai,BR001,116,435043,1
+C00230,57,Mass Market,Salaried,Dubai,BR002,81,206278,0
+C00231,22,Affluent,Salaried,Abu Dhabi,BR003,100,301741,1
+C00232,66,Mass Market,Other,Abu Dhabi,BR004,74,217922,1
+C00233,25,Mass Market,Business Owner,Sharjah,BR005,114,597528,1
+C00234,66,Mass Market,Salaried,Al Ain,BR006,77,77289,1
+C00235,53,Mass Market,Other,Dubai,BR001,36,98058,1
+C00236,57,Mass Market,Business Owner,Dubai,BR002,142,70018,1
+C00237,46,Corporate,Self-employed,Abu Dhabi,BR003,135,643264,1
+C00238,25,Mass Market,Salaried,Abu Dhabi,BR004,19,484231,1
+C00239,74,Affluent,Self-employed,Sharjah,BR005,47,307651,1
+C00240,24,SME,Salaried,Al Ain,BR006,78,324918,0
+C00241,35,Mass Market,Other,Dubai,BR001,73,56672,1
+C00242,56,Mass Market,Self-employed,Dubai,BR002,158,175848,1
+C00243,58,Mass Market,Self-employed,Abu Dhabi,BR003,155,124504,1
+C00244,22,Mass Market,Other,Abu Dhabi,BR004,148,105377,1
+C00245,47,Affluent,Salaried,Sharjah,BR005,161,391872,1
+C00246,72,SME,Salaried,Al Ain,BR006,117,55129,1
+C00247,47,Mass Market,Salaried,Dubai,BR001,156,403884,1
+C00248,43,Corporate,Salaried,Dubai,BR002,95,170998,1
+C00249,50,Mass Market,Salaried,Abu Dhabi,BR003,37,266532,0
+C00250,60,Mass Market,Other,Abu Dhabi,BR004,41,542875,1
+C00251,31,Mass Market,Salaried,Sharjah,BR005,128,116882,1
+C00252,46,Mass Market,Other,Al Ain,BR006,56,188920,1
+C00253,52,Affluent,Business Owner,Dubai,BR001,173,159361,1
+C00254,48,Mass Market,Salaried,Dubai,BR002,94,451422,1
+C00255,24,Mass Market,Salaried,Abu Dhabi,BR003,142,278552,1
+C00256,69,Mass Market,Business Owner,Abu Dhabi,BR004,160,214362,1
+C00257,27,Mass Market,Business Owner,Sharjah,BR005,87,182232,1
+C00258,53,Mass Market,Salaried,Al Ain,BR006,10,614128,1
+C00259,54,Mass Market,Self-employed,Dubai,BR001,132,411949,1
+C00260,60,Affluent,Salaried,Dubai,BR002,87,507237,1
+C00261,40,Mass Market,Salaried,Abu Dhabi,BR003,85,297465,1
+C00262,71,SME,Business Owner,Abu Dhabi,BR004,162,552953,1
+C00263,62,Affluent,Business Owner,Sharjah,BR005,148,95649,1
+C00264,31,Mass Market,Self-employed,Al Ain,BR006,98,74738,1
+C00265,65,Mass Market,Salaried,Dubai,BR001,81,319394,1
+C00266,47,Mass Market,Self-employed,Dubai,BR002,121,228895,1
+C00267,54,Mass Market,Salaried,Abu Dhabi,BR003,170,515502,1
+C00268,32,Mass Market,Salaried,Abu Dhabi,BR004,140,594350,1
+C00269,33,Corporate,Salaried,Sharjah,BR005,77,396036,1
+C00270,65,Affluent,Salaried,Al Ain,BR006,90,618360,1
+C00271,57,Affluent,Salaried,Dubai,BR001,102,126474,1
+C00272,39,Corporate,Salaried,Dubai,BR002,114,374451,1
+C00273,73,Mass Market,Business Owner,Abu Dhabi,BR003,179,107203,1
+C00274,58,Mass Market,Salaried,Abu Dhabi,BR004,136,95158,1
+C00275,47,Mass Market,Salaried,Sharjah,BR005,175,238051,0
+C00276,31,Mass Market,Business Owner,Al Ain,BR006,122,161160,1
+C00277,39,Mass Market,Self-employed,Dubai,BR001,23,206996,1
+C00278,67,SME,Salaried,Dubai,BR002,45,145546,0
+C00279,46,Affluent,Salaried,Abu Dhabi,BR003,75,244859,1
+C00280,27,SME,Salaried,Abu Dhabi,BR004,117,524846,1
+C00281,29,SME,Salaried,Sharjah,BR005,50,65529,1
+C00282,62,Mass Market,Salaried,Al Ain,BR006,87,113338,1
+C00283,61,SME,Business Owner,Dubai,BR001,132,285476,1
+C00284,32,Corporate,Salaried,Dubai,BR002,64,376727,1
+C00285,69,Mass Market,Salaried,Abu Dhabi,BR003,150,225499,1
+C00286,44,Affluent,Salaried,Abu Dhabi,BR004,31,158000,1
+C00287,53,SME,Business Owner,Sharjah,BR005,80,301560,1
+C00288,35,Mass Market,Salaried,Al Ain,BR006,40,632029,1
+C00289,56,SME,Business Owner,Dubai,BR001,171,93255,1
+C00290,59,SME,Salaried,Dubai,BR002,115,608977,1
+C00291,57,Mass Market,Business Owner,Abu Dhabi,BR003,130,88994,1
+C00292,54,Mass Market,Self-employed,Abu Dhabi,BR004,150,287680,1
+C00293,50,Mass Market,Salaried,Sharjah,BR005,145,532971,1
+C00294,40,Affluent,Salaried,Al Ain,BR006,1,231508,1
+C00295,43,Affluent,Salaried,Dubai,BR001,16,54092,1
+C00296,32,Affluent,Business Owner,Dubai,BR002,166,436326,1
+C00297,45,Mass Market,Self-employed,Abu Dhabi,BR003,170,309725,1
+C00298,55,Mass Market,Salaried,Abu Dhabi,BR004,58,36910,0
+C00299,50,Affluent,Salaried,Sharjah,BR005,137,135425,1
+C00300,30,Mass Market,Business Owner,Al Ain,BR006,29,586134,1
+C00301,22,Mass Market,Salaried,Dubai,BR001,153,44801,1
+C00302,23,Mass Market,Salaried,Dubai,BR002,56,233757,1
+C00303,39,Mass Market,Business Owner,Abu Dhabi,BR003,148,542764,1
+C00304,30,Corporate,Salaried,Abu Dhabi,BR004,106,114774,1
+C00305,58,SME,Business Owner,Sharjah,BR005,161,463977,1
+C00306,43,Corporate,Self-employed,Al Ain,BR006,135,605067,1
+C00307,40,Mass Market,Business Owner,Dubai,BR001,122,358146,1
+C00308,30,SME,Business Owner,Dubai,BR002,144,144180,1
+C00309,37,Mass Market,Self-employed,Abu Dhabi,BR003,116,133275,1
+C00310,45,Affluent,Self-employed,Abu Dhabi,BR004,19,85325,1
+C00311,42,Mass Market,Business Owner,Sharjah,BR005,55,85813,1
+C00312,69,Mass Market,Salaried,Al Ain,BR006,155,347224,0
+C00313,56,Mass Market,Salaried,Dubai,BR001,120,580117,1
+C00314,44,Mass Market,Salaried,Dubai,BR002,26,486149,0
+C00315,44,Mass Market,Salaried,Abu Dhabi,BR003,57,230314,1
+C00316,58,Mass Market,Salaried,Abu Dhabi,BR004,40,87430,1
+C00317,74,Mass Market,Salaried,Sharjah,BR005,176,374914,0
+C00318,62,Affluent,Salaried,Al Ain,BR006,91,313379,1
+C00319,55,Corporate,Other,Dubai,BR001,135,44866,1
+C00320,47,Mass Market,Self-employed,Dubai,BR002,18,221380,1
+C00321,50,Mass Market,Self-employed,Abu Dhabi,BR003,171,493339,1
+C00322,55,Mass Market,Salaried,Abu Dhabi,BR004,136,384044,1
+C00323,73,Affluent,Salaried,Sharjah,BR005,46,64053,1
+C00324,60,Mass Market,Business Owner,Al Ain,BR006,69,281429,0
+C00325,50,Mass Market,Other,Dubai,BR001,58,114636,1
+C00326,62,Affluent,Salaried,Dubai,BR002,98,529775,1
+C00327,21,Affluent,Salaried,Abu Dhabi,BR003,112,205058,1
+C00328,23,Mass Market,Business Owner,Abu Dhabi,BR004,178,489300,1
+C00329,25,Affluent,Salaried,Sharjah,BR005,140,183720,1
+C00330,41,Mass Market,Salaried,Al Ain,BR006,37,613667,0
+C00331,40,Mass Market,Salaried,Dubai,BR001,100,523411,1
+C00332,68,Mass Market,Other,Dubai,BR002,21,630834,1
+C00333,48,Mass Market,Salaried,Abu Dhabi,BR003,155,561843,0
+C00334,41,Mass Market,Salaried,Abu Dhabi,BR004,116,359611,1
+C00335,45,Mass Market,Self-employed,Sharjah,BR005,170,284929,1
+C00336,66,Mass Market,Salaried,Al Ain,BR006,98,222561,1
+C00337,41,Mass Market,Salaried,Dubai,BR001,79,428701,1
+C00338,26,Mass Market,Salaried,Dubai,BR002,143,170333,1
+C00339,43,Mass Market,Self-employed,Abu Dhabi,BR003,84,246471,1
+C00340,70,Mass Market,Business Owner,Abu Dhabi,BR004,63,185935,1
+C00341,31,Mass Market,Salaried,Sharjah,BR005,127,74255,1
+C00342,47,Mass Market,Business Owner,Al Ain,BR006,93,369285,1
+C00343,33,Mass Market,Salaried,Dubai,BR001,2,414178,1
+C00344,42,Mass Market,Salaried,Dubai,BR002,167,311369,1
+C00345,65,Mass Market,Salaried,Abu Dhabi,BR003,102,392803,0
+C00346,71,Mass Market,Salaried,Abu Dhabi,BR004,101,131686,1
+C00347,55,Mass Market,Business Owner,Sharjah,BR005,7,226634,1
+C00348,39,SME,Salaried,Al Ain,BR006,105,212417,1
+C00349,36,Mass Market,Salaried,Dubai,BR001,109,278780,0
+C00350,51,Affluent,Salaried,Dubai,BR002,178,145655,1
+C00351,44,Affluent,Business Owner,Abu Dhabi,BR003,153,203295,1
+C00352,63,Affluent,Salaried,Abu Dhabi,BR004,157,535290,0
+C00353,42,Corporate,Salaried,Sharjah,BR005,3,61849,1
+C00354,54,Mass Market,Self-employed,Al Ain,BR006,57,436147,1
+C00355,64,Affluent,Salaried,Dubai,BR001,89,42438,1
+C00356,26,Mass Market,Other,Dubai,BR002,37,403521,1
+C00357,34,Mass Market,Salaried,Abu Dhabi,BR003,25,618533,1
+C00358,40,Mass Market,Self-employed,Abu Dhabi,BR004,6,125935,1
+C00359,31,SME,Business Owner,Sharjah,BR005,133,81731,1
+C00360,48,Corporate,Salaried,Al Ain,BR006,104,201087,1
+C00361,48,Mass Market,Self-employed,Dubai,BR001,51,550486,1
+C00362,66,Mass Market,Salaried,Dubai,BR002,17,187348,1
+C00363,33,Mass Market,Salaried,Abu Dhabi,BR003,126,575077,1
+C00364,60,Mass Market,Salaried,Abu Dhabi,BR004,91,156025,1
+C00365,66,SME,Business Owner,Sharjah,BR005,152,58217,1
+C00366,36,Mass Market,Salaried,Al Ain,BR006,178,507820,1
+C00367,29,Mass Market,Salaried,Dubai,BR001,125,202592,1
+C00368,52,Mass Market,Salaried,Dubai,BR002,116,268108,0
+C00369,52,Mass Market,Business Owner,Abu Dhabi,BR003,144,582397,1
+C00370,52,Mass Market,Business Owner,Abu Dhabi,BR004,126,79844,1
+C00371,35,Mass Market,Salaried,Sharjah,BR005,138,328190,1
+C00372,70,Affluent,Salaried,Al Ain,BR006,29,299878,1
+C00373,73,Corporate,Salaried,Dubai,BR001,11,616953,1
+C00374,48,Mass Market,Business Owner,Dubai,BR002,64,256899,1
+C00375,73,Mass Market,Business Owner,Abu Dhabi,BR003,31,239327,1
+C00376,58,Affluent,Business Owner,Abu Dhabi,BR004,157,201877,1
+C00377,71,Mass Market,Salaried,Sharjah,BR005,16,423929,1
+C00378,31,Mass Market,Self-employed,Al Ain,BR006,75,186139,1
+C00379,69,Affluent,Business Owner,Dubai,BR001,71,207939,1
+C00380,66,Mass Market,Salaried,Dubai,BR002,174,138944,1
+C00381,38,Affluent,Salaried,Abu Dhabi,BR003,20,202101,1
+C00382,68,Mass Market,Business Owner,Abu Dhabi,BR004,95,495876,1
+C00383,70,SME,Salaried,Sharjah,BR005,118,588203,1
+C00384,71,Mass Market,Salaried,Al Ain,BR006,110,499374,1
+C00385,39,Mass Market,Salaried,Dubai,BR001,145,163228,1
+C00386,61,Affluent,Salaried,Dubai,BR002,32,471361,1
+C00387,48,Mass Market,Self-employed,Abu Dhabi,BR003,34,206392,1
+C00388,38,Mass Market,Salaried,Abu Dhabi,BR004,22,133476,1
+C00389,61,Mass Market,Self-employed,Sharjah,BR005,60,148520,1
+C00390,21,Mass Market,Salaried,Al Ain,BR006,152,512339,1
+C00391,65,Mass Market,Salaried,Dubai,BR001,109,309298,1
+C00392,45,Mass Market,Business Owner,Dubai,BR002,27,432709,1
+C00393,70,SME,Business Owner,Abu Dhabi,BR003,165,213507,1
+C00394,21,Affluent,Salaried,Abu Dhabi,BR004,90,225381,0
+C00395,60,Affluent,Business Owner,Sharjah,BR005,23,62336,1
+C00396,45,Mass Market,Salaried,Al Ain,BR006,36,100955,1
+C00397,59,Affluent,Self-employed,Dubai,BR001,177,585195,1
+C00398,59,Mass Market,Business Owner,Dubai,BR002,76,205389,1
+C00399,28,Mass Market,Self-employed,Abu Dhabi,BR003,19,246327,0
+C00400,29,Mass Market,Business Owner,Abu Dhabi,BR004,108,131790,1
+C00401,70,Mass Market,Self-employed,Sharjah,BR005,4,104730,0
+C00402,71,Mass Market,Salaried,Al Ain,BR006,129,457807,1
+C00403,26,Affluent,Salaried,Dubai,BR001,40,283829,1
+C00404,34,Corporate,Salaried,Dubai,BR002,84,138427,1
+C00405,48,Affluent,Business Owner,Abu Dhabi,BR003,15,285201,1
+C00406,60,Affluent,Salaried,Abu Dhabi,BR004,169,230159,1
+C00407,29,Affluent,Salaried,Sharjah,BR005,89,511174,1
+C00408,29,Affluent,Business Owner,Al Ain,BR006,31,255392,1
+C00409,38,Mass Market,Salaried,Dubai,BR001,148,280407,1
+C00410,44,Mass Market,Business Owner,Dubai,BR002,43,322476,1
+C00411,57,Affluent,Salaried,Abu Dhabi,BR003,131,36673,1
+C00412,51,Mass Market,Business Owner,Abu Dhabi,BR004,46,529861,1
+C00413,36,Mass Market,Self-employed,Sharjah,BR005,70,539650,1
+C00414,64,SME,Salaried,Al Ain,BR006,133,48039,1
+C00415,39,Affluent,Salaried,Dubai,BR001,23,180989,1
+C00416,39,Mass Market,Salaried,Dubai,BR002,160,483232,1
+C00417,52,Corporate,Business Owner,Abu Dhabi,BR003,140,235355,1
+C00418,47,Mass Market,Salaried,Abu Dhabi,BR004,163,245031,1
+C00419,63,Mass Market,Self-employed,Sharjah,BR005,79,63249,1
+C00420,24,Corporate,Salaried,Al Ain,BR006,72,60386,1
+C00421,54,Mass Market,Business Owner,Dubai,BR001,118,232057,1
+C00422,61,SME,Salaried,Dubai,BR002,146,52327,1
+C00423,37,SME,Business Owner,Abu Dhabi,BR003,101,625537,1
+C00424,38,Mass Market,Other,Abu Dhabi,BR004,35,237889,1
+C00425,31,Mass Market,Salaried,Sharjah,BR005,31,176489,1
+C00426,50,Mass Market,Salaried,Al Ain,BR006,41,215845,1
+C00427,41,Mass Market,Self-employed,Dubai,BR001,92,139873,1
+C00428,37,SME,Salaried,Dubai,BR002,104,154541,1
+C00429,27,SME,Salaried,Abu Dhabi,BR003,4,52166,1
+C00430,73,Mass Market,Self-employed,Abu Dhabi,BR004,166,545306,0
+C00431,25,Mass Market,Salaried,Sharjah,BR005,166,152242,1
+C00432,74,SME,Salaried,Al Ain,BR006,119,328075,1
+C00433,46,Mass Market,Salaried,Dubai,BR001,110,81300,1
+C00434,38,Mass Market,Business Owner,Dubai,BR002,9,196984,1
+C00435,52,Mass Market,Salaried,Abu Dhabi,BR003,16,386684,1
+C00436,33,Affluent,Business Owner,Abu Dhabi,BR004,64,201348,0
+C00437,71,Affluent,Salaried,Sharjah,BR005,125,536565,1
+C00438,32,Mass Market,Self-employed,Al Ain,BR006,8,270719,1
+C00439,70,Affluent,Salaried,Dubai,BR001,41,62249,1
+C00440,73,Affluent,Self-employed,Dubai,BR002,57,443646,0
+C00441,32,Mass Market,Self-employed,Abu Dhabi,BR003,179,130052,1
+C00442,43,Corporate,Salaried,Abu Dhabi,BR004,145,498069,1
+C00443,23,Mass Market,Salaried,Sharjah,BR005,57,516011,1
+C00444,60,Mass Market,Salaried,Al Ain,BR006,46,120826,1
+C00445,66,SME,Business Owner,Dubai,BR001,135,278028,1
+C00446,63,Mass Market,Salaried,Dubai,BR002,78,120568,1
+C00447,48,Affluent,Other,Abu Dhabi,BR003,167,331333,1
+C00448,58,SME,Salaried,Abu Dhabi,BR004,177,113205,1
+C00449,65,Corporate,Salaried,Sharjah,BR005,146,335464,0
+C00450,60,Mass Market,Salaried,Al Ain,BR006,128,72868,1
+C00451,41,Mass Market,Business Owner,Dubai,BR001,23,591286,1
+C00452,37,Mass Market,Self-employed,Dubai,BR002,90,103281,1
+C00453,49,Affluent,Other,Abu Dhabi,BR003,106,438555,1
+C00454,27,SME,Business Owner,Abu Dhabi,BR004,148,206647,1
+C00455,25,Affluent,Salaried,Sharjah,BR005,6,119549,1
+C00456,31,SME,Salaried,Al Ain,BR006,20,288814,1
+C00457,60,SME,Self-employed,Dubai,BR001,111,326507,1
+C00458,27,Mass Market,Other,Dubai,BR002,105,530515,1
+C00459,40,Mass Market,Salaried,Abu Dhabi,BR003,147,180090,1
+C00460,21,Mass Market,Salaried,Abu Dhabi,BR004,170,554686,1
+C00461,22,Mass Market,Self-employed,Sharjah,BR005,21,300560,1
+C00462,51,Mass Market,Self-employed,Al Ain,BR006,24,525279,1
+C00463,45,Mass Market,Salaried,Dubai,BR001,68,483825,1
+C00464,38,Mass Market,Salaried,Dubai,BR002,179,210972,1
+C00465,72,Mass Market,Other,Abu Dhabi,BR003,151,95641,1
+C00466,73,Mass Market,Other,Abu Dhabi,BR004,176,160472,1
+C00467,26,Mass Market,Business Owner,Sharjah,BR005,9,167622,1
+C00468,69,Mass Market,Other,Al Ain,BR006,43,91545,1
+C00469,26,Corporate,Salaried,Dubai,BR001,161,551977,1
+C00470,67,SME,Salaried,Dubai,BR002,100,448329,1
+C00471,54,Mass Market,Business Owner,Abu Dhabi,BR003,180,548060,1
+C00472,30,Mass Market,Self-employed,Abu Dhabi,BR004,26,63691,1
+C00473,55,SME,Business Owner,Sharjah,BR005,68,583298,1
+C00474,51,Mass Market,Salaried,Al Ain,BR006,37,559111,1
+C00475,42,Affluent,Salaried,Dubai,BR001,122,106407,1
+C00476,71,Mass Market,Salaried,Dubai,BR002,126,218500,0
+C00477,35,Mass Market,Other,Abu Dhabi,BR003,114,408228,1
+C00478,59,Affluent,Salaried,Abu Dhabi,BR004,55,628469,1
+C00479,44,SME,Salaried,Sharjah,BR005,41,403119,1
+C00480,54,SME,Salaried,Al Ain,BR006,50,88619,1
+C00481,24,SME,Self-employed,Dubai,BR001,71,483385,1
+C00482,28,Affluent,Salaried,Dubai,BR002,126,191724,0
+C00483,51,Affluent,Salaried,Abu Dhabi,BR003,42,103806,1
+C00484,45,Mass Market,Business Owner,Abu Dhabi,BR004,55,94025,1
+C00485,38,Affluent,Salaried,Sharjah,BR005,175,38332,1
+C00486,59,SME,Salaried,Al Ain,BR006,156,613682,1
+C00487,45,SME,Salaried,Dubai,BR001,56,398412,1
+C00488,21,Mass Market,Self-employed,Dubai,BR002,96,579394,1
+C00489,27,Mass Market,Salaried,Abu Dhabi,BR003,71,410466,1
+C00490,66,Corporate,Self-employed,Abu Dhabi,BR004,49,75303,1
+C00491,72,SME,Business Owner,Sharjah,BR005,104,209154,1
+C00492,62,Mass Market,Salaried,Al Ain,BR006,108,142063,1
+C00493,57,SME,Salaried,Dubai,BR001,57,520303,1
+C00494,63,Mass Market,Salaried,Dubai,BR002,44,208389,1
+C00495,51,Mass Market,Salaried,Abu Dhabi,BR003,144,335981,1
+C00496,35,Mass Market,Business Owner,Abu Dhabi,BR004,79,413706,1
+C00497,39,Mass Market,Salaried,Sharjah,BR005,14,202303,1
+C00498,33,Mass Market,Business Owner,Al Ain,BR006,98,396425,1
+C00499,30,Mass Market,Salaried,Dubai,BR001,105,185265,1
+C00500,66,Mass Market,Salaried,Dubai,BR002,86,332707,1

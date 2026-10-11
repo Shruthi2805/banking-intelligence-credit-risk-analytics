@@ -1,0 +1,14 @@
+Step,Task,Status
+01,Review project brief and business questions,Not started
+02,Import workbook into Power BI Desktop,Not started
+03,"Check data types, blanks, duplicates and key fields",Not started
+04,Create model relationships,Not started
+05,Create starter DAX measures,Not started
+06,Build Executive Overview page,Not started
+07,Build Credit Risk page,Not started
+08,Build Customer & Transactions page,Not started
+09,Configure slicers and drill-through,Not started
+10,Run UAT scenarios and reconcile totals,Not started
+11,Run SQL queries and save results,Not started
+12,Write findings and recommendations based on actual visuals,Not started
+13,Prepare portfolio README and interview walkthrough,Not started
