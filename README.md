@@ -31,3 +31,14 @@ Avoid creating multiple active relationship paths that cause ambiguous filtering
 - `IsFraudFlag` is simulated and indicates a record for review, not confirmed fraud.
 - Loan balances and monthly payments are illustrative, not a financial amortization model.
 - Do not present synthetic results as real bank performance.
+
+- ## Power BI Dashboard Screenshots
+
+### 1. Banking Executive Overview
+![Banking Executive Overview](screenshots/01_Banking_Executive_Overview.png)
+
+### 2. Credit Risk Analysis
+![Credit Risk Analysis](screenshots/02_Credit_Risk_Analysis.png)
+
+### 3. Customer & Branch Intelligence
+![Customer & Branch Intelligence](screenshots/03_Customer_Branch_Intelligence.png)
